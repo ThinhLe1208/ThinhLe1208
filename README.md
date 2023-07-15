@@ -57,7 +57,7 @@
   <a href="https://www.facebook.com/thinhle1208" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="thinhledev-facebook" />
   </a>
-  <a href="www.linkedin.com/in/thinhle1208" target="blank">
+  <a href="https://www.linkedin.com/in/thinhle1208" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="thinhledev-linkedin" />
   </a>
   <a href="https://www.instagram.com/thinh_le_1208/" target="blank">
